@@ -1,3 +1,27 @@
 nav ul li{
     list-style: none;
 }
+ .button1-1{
+     color: green;
+ }
+
+.button1-2{
+    color: yellow;
+}
+
+.button1-3{
+    color: red;
+}
+.badge1-1{
+    margin: 2em;
+    
+}
+
+.badge1-2{
+    margin: 2em;
+}
+
+.badge1-3{
+    margin: 2em;
+}
+
