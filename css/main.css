@@ -1,2 +1,3 @@
-nav {
-  list-style: none; }
+nav ul li{
+    list-style: none;
+}
